@@ -1,0 +1,3 @@
+/Users/marymcphee/CLionProjects/michael-repo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/marymcphee/CLionProjects/michael-repo/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/marymcphee/CLionProjects/michael-repo/cmake-build-debug/CMakeFiles/michael_repo.dir
