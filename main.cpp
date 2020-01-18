@@ -1,3 +1,5 @@
+//hey what's up michael?
+
 #include <iostream>
 #include <cmath>
 #include <math.h>
